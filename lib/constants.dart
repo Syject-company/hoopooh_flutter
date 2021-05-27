@@ -1,7 +1,5 @@
 
 
-import 'dart:ui';
-
 class Dimension {
   static const double PADDING_4 = 4.0;
   static const double PADDING_8 = 8.0;

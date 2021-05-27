@@ -45,7 +45,9 @@ class SplashBodyWidget extends StatelessWidget {
               Positioned(
                 left: _width * 0.065,
                 bottom: 0,
-                child: Container(child: Image.asset(img)),
+                child: Container(
+                    height: _height * 0.23,
+                    child: Image.asset(img)),
               ),
             ]),
           ),

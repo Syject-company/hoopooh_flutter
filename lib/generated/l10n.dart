@@ -245,6 +245,26 @@ class S {
     );
   }
 
+  /// `Confirm, Password`
+  String get confirm_password {
+    return Intl.message(
+      'Confirm, Password',
+      name: 'confirm_password',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Full Name`
+  String get full_name {
+    return Intl.message(
+      'Full Name',
+      name: 'full_name',
+      desc: '',
+      args: [],
+    );
+  }
+
   /// `Let’s Combat!`
   String get lets_combat {
     return Intl.message(
@@ -260,6 +280,86 @@ class S {
     return Intl.message(
       'Forgot Password?',
       name: 'forgot_password',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `+234`
+  String get start_phone_number {
+    return Intl.message(
+      '+234',
+      name: 'start_phone_number',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Your Phone`
+  String get phone_number {
+    return Intl.message(
+      'Your Phone',
+      name: 'phone_number',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Terms&Conditions`
+  String get terms_conditions {
+    return Intl.message(
+      'Terms&Conditions',
+      name: 'terms_conditions',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `I agree with`
+  String get i_agry_with {
+    return Intl.message(
+      'I agree with',
+      name: 'i_agry_with',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Already have an account?`
+  String get already_have_an_account {
+    return Intl.message(
+      'Already have an account?',
+      name: 'already_have_an_account',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Login`
+  String get login {
+    return Intl.message(
+      'Login',
+      name: 'login',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Welcome Back!`
+  String get welcome_back {
+    return Intl.message(
+      'Welcome Back!',
+      name: 'welcome_back',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Hi, Kindly login to continue battle`
+  String get login_to_continue_battle {
+    return Intl.message(
+      'Hi, Kindly login to continue battle',
+      name: 'login_to_continue_battle',
       desc: '',
       args: [],
     );
