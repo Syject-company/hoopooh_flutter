@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.hoopooh_flutter.hoopooh_flutter">
+    package="com.hoopooh.hoopooh">
    <application
-        android:label="hoopooh_flutter"
+        android:label="hoopooh"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
