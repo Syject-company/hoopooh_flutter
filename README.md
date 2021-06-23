@@ -1,6 +1,6 @@
-# hoopooh_flutter
+# hoopooh
 
-A new hoopooh_flutter project.
+A new Flutter project.
 
 ## Getting Started
 
