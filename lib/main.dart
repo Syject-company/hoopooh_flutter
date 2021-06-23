@@ -8,6 +8,7 @@ import 'package:sizer/sizer.dart';
 import 'app/utils/utils.dart';
 
 void main() {
+  //new commit
   runApp(Sizer(builder: (context, orientation, deviceType) {
     return GetMaterialApp(
       translations: TranslateHoopooh(),
