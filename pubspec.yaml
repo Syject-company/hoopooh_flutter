@@ -1,0 +1,31 @@
+name: hoopooh
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter: 
+    sdk: flutter
+  cupertino_icons: ^1.0.3
+  get: 4.1.4
+  sizer: ^2.0.13
+  google_fonts: ^2.1.0
+  flutter_svg: ^0.22.0
+
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/icons/navbar/
+    - assets/icons/login_page_icons/
+    - assets/icons/social_networks_icons/
+    - assets/images/home_screen_images/
+    - assets/images/splash_screen_images/
+
